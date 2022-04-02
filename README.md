@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Matt Pfeifer. I'm a coffee nerd, husband, pug dad, and lifelong learner.
+- 👋 Hi, I’m Matt. I'm a coffee nerd, husband, pug dad, and lifelong learner.
 - 👀 I have 5 years of experience in data analysis & mathematical models. I currently develop optimization models that power
-analysis and planning tools for the Navy with <a href="https://navalnuclearlab.energy.gov/">Naval Nuclear Laboratory</a> (contractor, not actively enlisted).
-- 🌱 I’m obsessed with Web3 and have been strengthening my dev portfolio with NFT projects on ETH and SOL, 
-while building a new appreciation for frontend UI development with JavaScript and the React.js framework.
-- 🤝 I’m looking to collaborate on new and exciting projects in the Web3 space (NFTs, dApps, DeFi, the more the merrier!).
-- ✨ My goal is to jump from the Web2 world into a fulltime Web3 gig so I can be an active part of the coming wave of blockchain innovation!
+analysis and planning tools for the Navy.
+- 🌱 I’m obsessed with Web3 and have been building in this space for the better part of a year, strengthening my dev portfolio with NFT projects on ETH and SOL. While I mostly build frontend applications in Javascript frameworks, I have some experience inside smart contracts and am actively working to master Rust 🛠 🦞 
+- 👼 I'm a frontend dev with DeGods on the Solana network and I'm looking to take on more contract work. My goal is to jump from the 9-5 world into the 24/7 wild west of Web3 🤝 
 - 📫 I can be reached on Twitter <a href="twitter.com/web3_degen">@web3_degen</a>, on Discord @ matt.sol#2222, and my email is matthewcpfeifer@gmail.com
 
 <!---
